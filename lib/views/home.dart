@@ -19,7 +19,7 @@ class Home extends StatelessWidget {
         actions: [
           IconButton(
               onPressed: () {},
-              icon: const Icon(Icons.search, color: whiteColor))
+              icon: const Icon(Icons.search_outlined, color: whiteColor))
         ],
         leading: const Icon(
           Icons.sort_rounded,
