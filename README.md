@@ -1,4 +1,4 @@
-# music_player
+# Music_player
 
 # MUSIC PLAYER APP made with Flutter 🎶🎧.
 # The app will firstly ask u to give persmission for accessing the local songs which is in your device .
