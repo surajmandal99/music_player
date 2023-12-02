@@ -2,8 +2,13 @@
 
 # MUSIC PLAYER APP made with Flutter 🎶🎧.
 # The app firstly ask you to give the persmission for accessing the localally stored songs  🎶.
-# After that we can easily play the songs if we give the permission to access  .
-# It also have  the pause and play , next and forward features just like in others music player apps 🎶
+# After that we can easily play the songs if we give the permission to access 🎵
+
+# It also have like :
+
+# pause  the songs
+# play   the songs 
+# next and forward features just like in others music player apps 🎶🎵📲
 
 #  Video for the App: 
 
