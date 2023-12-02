@@ -4,8 +4,7 @@
 # The app firstly ask you to give the persmission for accessing the localally stored songs  🎶.
 # After that we can easily play the songs if we give the permission to access 🎵
 
-# It also have like :
-
+# Features of the App:
 # pause  the songs
 # play   the songs 
 # next and forward features just like in others music player apps 🎶🎵📲
